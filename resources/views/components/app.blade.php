@@ -12,7 +12,7 @@
     <meta property="og:url" content="https://win97.de">
     <meta property="og:description" content="">
     <meta property="og:type" content="website">
-    <meta property="og:image" content="{{ Vite::asset('images/logo.svg') }}">
+    <meta property="og:image" content="{{ Vite::asset('resources/images/logo.svg') }}">
 
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
